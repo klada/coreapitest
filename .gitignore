@@ -1,0 +1,8 @@
+*~
+*.pyc
+*.pyo
+*.swp
+db.sqlite3
+.settings/
+*/settings/local.py
+__pycache__

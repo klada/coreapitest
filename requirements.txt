@@ -1,0 +1,6 @@
+coreapi
+Django
+django-filter
+djangorestframework
+djangorestframework-jsonp
+Markdown
